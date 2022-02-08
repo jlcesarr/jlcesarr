@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning HTML, CSS and React
 - 💬 Ask me about: 
-  *  Javascript | NodeJS | Typescript
+  *  Javascript | NodeJS | CSS
   * And what you want, feel free...
 
 ## 🛠 Skills
