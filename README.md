@@ -1,7 +1,7 @@
 
 # Olá, eu sou o Júlio César! 👋
 
-- 🌱 Atualmente estou aprendendo React
+- 🌱 Atualmente estou me aprofundando no ecossistema do React
 - 💬 Pergunte-me sobre: 
   *  JS (Node, React) | CSS (SASS)
   * E o que você quiser, fique a vontade...
@@ -16,12 +16,18 @@
 </div>
 <div style="display:inline-block;"><BR\>
  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
- <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+</div>
+ 
+ <div style="display:inline-block;"><BR\>
  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white">
  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white">
 </div>
+ 
+ <div style="display:inline-block;"><BR\>
+ <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+ <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white">
 
-
+</div>
 
 
 ## 🛠 Outras skills
