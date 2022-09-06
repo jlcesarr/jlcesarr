@@ -1,5 +1,5 @@
 
-# Olá, eu sou Júlio César! 👋
+# Olá, eu sou o Júlio César! 👋
 
 - 🌱 Atualmente estou aprendendo React
 - 💬 Pergunte-me sobre: 
